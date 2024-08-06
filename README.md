@@ -8,6 +8,7 @@ Third Party Dependencies: <br />
 ```
 chi --> https://github.com/go-chi/chi 
 ```
+<br />
     -conforms to the HTTP interface of the standard library <br />
     -in addition, the middleware package <br />
 
