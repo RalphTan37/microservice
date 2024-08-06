@@ -7,10 +7,10 @@ A microservice is essentially a small and independent unit of an application tha
 Third Party Dependencies: <br />
 ```
 chi --> https://github.com/go-chi/chi 
-```<br />
+``` <br />
     -conforms to the HTTP interface of the standard library <br />
     -in addition, the middleware package <br />
-
+<br />
 **Command Lines:**
 ```
 go run main.go
