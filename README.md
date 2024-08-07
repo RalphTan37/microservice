@@ -12,6 +12,6 @@ It serves as a resource for reference.
 
 **Important Command Lines:** <br />
 ```go run main.go```
-Runs the main.go file
+--> Runs the main.go file
 
 
