@@ -11,7 +11,7 @@ This branch is intended for personal learning purposes to understand the functio
 It serves as a resource for reference.
 
 **Important Command Lines:** <br />
-```go run main.go``` <br />
+```go run main.go``` 
 --> Runs the main.go file <br />
 ```curl -X POST localhost:3000/orders```
 --> Sends a post request to localhost:3000/orders; in the log, the create handler is called: create an order <br />
