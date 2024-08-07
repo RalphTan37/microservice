@@ -15,4 +15,5 @@ https://github.com/go-chi/chi
 ```
 go run main.go
 curl localhost:3000/Hello
+curl -X POST localhost:3000
 ```
