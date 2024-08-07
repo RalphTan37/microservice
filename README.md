@@ -7,7 +7,7 @@ This basic-microservice branch is based on the tutorial by Net Ninja on YouTube.
 
 **Chi, a third-party dependency** <br />
 chi is a lightweight, idiomatic and composable router for building Go HTTP services. <br />
-```https://github.com/go-chi/chi``` 
+```https://github.com/go-chi/chi``` <br />
 +conforms to the HTTP interface of the standard library <br />
 +in addition, the middleware package <br />
 
