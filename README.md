@@ -15,5 +15,8 @@ It serves as a resource for reference.
 --> Runs the main.go file <br />
 ```curl -X POST localhost:3000/orders```
 --> Sends a post request to localhost:3000/orders; in the log, the create handler is called: create an order
-
+```curl localhost:3000/orders/```
+--> Runs a get request to localhost:3000/orders; in the log, the list handler is called: list all orders
+```curl localhost:3000/orders/myorders```
+--> myorders is a dummy id; in the log, the get by id handler is called: get an order by id
 
