@@ -19,4 +19,7 @@ It serves as a resource for reference.
 --> Runs a get request to localhost:3000/orders; in the log, the list handler is called: list all orders <br />
 ```curl localhost:3000/orders/myorders```
 --> myorders is a dummy id; in the log, the get by id handler is called: get an order by id <br />
-
+```curl -X PUT localhost:3000/orders/myorders```
+--> in the log, the update by id handler is called: update an order by id <br />
+```curl -X DELETE localhost:3000/orders/myorders```
+--> in the log, the delete by id handler is called: delete an order by id <br />
