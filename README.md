@@ -11,7 +11,7 @@ chi is a lightweight, idiomatic and composable router for building Go HTTP servi
 +conforms to the HTTP interface of the standard library <br />
 +in addition, the middleware package <br />
 
-**Chi Installation**
+**Chi Installation** <br />
 ```go get -u github.com/go-chi/chi/v5```
 
 **Important Command Lines:** <br />
