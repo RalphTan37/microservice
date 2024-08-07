@@ -10,5 +10,8 @@ All credit for the tutorial content belongs to Net Ninja.
 This branch is intended for personal learning purposes to understand the functionality of microservices and how to build them.
 It serves as a resource for reference.
 
+**Important Command Lines:**
+```go run main.go```
+Runs the main.go file
 
 
