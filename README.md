@@ -1,5 +1,6 @@
 # microservice - using redis
 
+Storing customer services in microservice.
 
 **Disclaimer:** <br />
 This data-model branch is based on the tutorial by Net Ninja on YouTube.
@@ -9,5 +10,3 @@ It serves as a resource for reference.
 
 **Install Google UUID:** <br />
 ```go get github.com/google/uuid``` <br />
-
-**Important Command Lines:** <br />
