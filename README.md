@@ -1,5 +1,4 @@
 # microservice-project
 
-Building a microservice in golang. <br />
-Currently in the process of learning and will begin this project once finished. <br />
-Stay Tuned! -Ralph
+Learning the concept of microservices and will create a project in another repo. <br />
+-Ralph
