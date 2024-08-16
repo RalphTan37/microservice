@@ -18,6 +18,6 @@ chi is a lightweight, idiomatic and composable router for building Go HTTP servi
 ```go run main.go```
 --> Runs the main.go file <br />
 ```curl localhost:3000/Hello```
---> Sends an HTTP get request from the /Hello path
+--> Sends an HTTP get request from the /Hello path <br />
 ```curl -X POST localhost:3000```
 --> Sends an HTTP post request
