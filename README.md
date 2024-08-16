@@ -22,8 +22,8 @@ It serves as a resource for reference.
 ```go get github.com/redis/go-redis/v9``` <br />
 
 **Important Command Lines:** <br />
-```go run main.go``` --> Runs the main.go file
-```curl localhost:3000/``` --> Sends an HTTP GET request to web server at port 3000
+```go run main.go``` --> Runs the main.go file <br />
+```curl localhost:3000/``` --> Sends an HTTP GET request to web server at port 3000 <br />
 ```redis-server --version``` --> Starts the Redis Server <br />
 ```docker ps``` --> Lists the running containers on Docker host <br />
 ```sudo service redis-server stop``` --> Stops Redis Server <br />
